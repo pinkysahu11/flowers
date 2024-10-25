@@ -36,3 +36,64 @@
     transform: rotate(360deg);
   }
 }
+
+/* my css */
+.title-font{
+  font-size: 50px;
+font-family: Gilroy;
+font-size: 50px;
+font-weight: 600;
+text-align: left;
+
+}
+.heading-font{
+font-family: Gilroy;
+font-size: 38px;
+font-weight: 500;
+text-align: left;
+
+}
+.paragraph{
+font-family: Gilroy;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.8px;
+text-align: left;
+margin-top: 188px;
+/* border-left: 1px solid black; */
+}
+
+.font16px{
+  font-family: Gilroy;
+  font-size: 16px;
+  font-weight: 500;
+  /* line-height: 19.2px;
+  letter-spacing: 0.025em; */
+  /* text-align: left; */
+  
+}
+
+.font14px{
+font-family: Gilroy;
+font-size: 14px;
+font-weight: 400;
+color: #808080;
+
+/* line-height: 16.8px; */
+/* text-align: left; */
+
+}
+
+
+.footer-title{
+  color: #808080;
+font-family: Gilroy;
+font-size: 21px;
+font-weight: 500;
+/* line-height: 25.2px; */
+text-align: left;
+
+
+}
+
+
